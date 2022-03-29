@@ -1,6 +1,5 @@
 ### Hello World, I'm Tibet 👋
 
-<img align="right" alt="GIF" width="500" height="320" src="https://thumbs.gfycat.com/FirstRightGlobefish-mobile.mp4" />
 
 ## I'm a Software Developer
 - 🔭 I’m currently working on my project
