@@ -7,10 +7,4 @@
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Vue , Soft Skills
-
-### 📫 How to reach me
-[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" width="26px">] (https://linkedin.com/tibet-erol)
-
-
-
-[linkedin]: https://linkedin.com/in/tibet-erol
+- 📫 How to reach me [My Website](https://tibeterol.me/) , [LinkedIn](https://tr.linkedin.com/in/tibet-erol)
