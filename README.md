@@ -9,4 +9,8 @@
 - 💬 Ask me about Vue , Soft Skills
 
 ### 📫 How to reach me
-<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" width="26px">
+[<img src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" align="left" width="26px">] [linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/tibet-erol
