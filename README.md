@@ -1,5 +1,6 @@
 ### Hello World, I'm Tibet 👋
 
+<img src="https://c.tenor.com/YRzeUmYfWrQAAAAM/jim2.gif" />
 
 ## I'm a Software Developer
 - 🔭 I’m currently working on my project
