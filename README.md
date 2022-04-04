@@ -10,10 +10,10 @@
 
 ## 📫 How to reach me
 
- <a href="https://tibeterol.me/">
+ <a href="https://tibeterol.me/" target="blank">
     <img align="left" alt="Tibet's Website" width="22px" src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" />
  </a>
-<a href="https://linkedin.com/in/tibet-erol">
+<a href="https://linkedin.com/in/tibet-erol" target="blank">
     <img align="left" alt="Tibet's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
  
