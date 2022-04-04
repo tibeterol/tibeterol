@@ -16,7 +16,4 @@
 <a href="https://linkedin.com/in/tibet-erol">
     <img align="left" alt="Tibet's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-
-<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tibeterol&theme=tokyonight)](https://github.com/tibeterol/)
  
