@@ -1,6 +1,6 @@
 ## 👋🏻 Hello World, I'm Tibet 
 
-<img align="right" alt="gif"  src="https://c.tenor.com/HnurQKt7zSQAAAAM/jim-carrey-jim-carrey-typing.gif" />
+<img align="right" alt="gif"  src="https://c.tenor.com/YRzeUmYfWrQAAAAM/jim2.gif" />
 
 ### I'm a Software Developer
 
