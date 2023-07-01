@@ -4,10 +4,10 @@
 
 ### I'm a Software Developer
 
-- 🔭 I’m currently working on my project
-- 🌱 I’m currently learning Vue
+- 🔭 I’m currently working at a software company
+- 🌱 I’m currently using Vue,.NET,SQL Server at work and Go outside of work recently
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about Vue , Soft Skills
+- 💬 Ask me about Vue,.NET,SQL Server,Go,Soft Skills
 
 ### 📫 How to reach me
 
