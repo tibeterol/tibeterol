@@ -12,7 +12,7 @@
 ### 📫 How to reach me
 
  <a href="https://tibeterol.me/">
-    <img align="left" alt="Tibet's Website" width="23px" src="https://c0.klipartz.com/pngpicture/662/211/gratis-png-logotipo-de-la-web-simbolo-de-iconos-de-la-computadora-world-wide-web-thumbnail.png"  />
+    <img align="left" alt="Tibet's Website" width="38px" src="https://static.vecteezy.com/system/resources/previews/014/391/995/original/transparent-website-icon-free-png.png"  />
  </a>
 <a href="https://linkedin.com/in/tibet-erol">
     <img align="left" alt="Tibet's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
